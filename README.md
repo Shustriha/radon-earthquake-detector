@@ -5,6 +5,7 @@ Prototype pipeline for modeling normal radon behavior and investigating residual
 ## Project idea
 
 The long-term goal of this project is to build a radon time-series anomaly detection pipeline inspired by earthquake-precursor research.
+The exact name of the article is "Modeling the Relationship Between Radon Anomalies and Seismic Activity Using Artificial Neural Networks and Statistical Methods" by Kostadin Yotov, Emil Hadzhikolev and Stanka Hadzhikoleva. Published in 2025
 
 The intended workflow is:
 
