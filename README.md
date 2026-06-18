@@ -41,7 +41,7 @@ Feature groups currently explored:
 
 ## Data
 
-This prototype uses a small open-source radon time-series dataset included in data/raw/.
+This prototype uses a small open-source radon time-series dataset included in data/raw/
 
 ## Next steps
 
